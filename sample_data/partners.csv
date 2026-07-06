@@ -1,0 +1,21 @@
+name,email,phone,street,city,zip,country_code,is_company,vat,customer_rank,supplier_rank
+Acme Solutions BV,info@acme-solutions.example,+31201234567,Damrak 1,Amsterdam,1012LG,NL,True,NL123456789B01,1,0
+Café De Druif,owner@cafedruif.example,+31206543210,Rapenburgerstraat 83,Amsterdam,1011VL,NL,True,NL987654321B01,1,0
+Jan de Vries,jan.devries@example.com,+31612345678,Hoofdstraat 12,Utrecht,3511AB,NL,False,,1,0
+Bakkerij Janssen,contact@bakkerijjanssen.example,+31301122334,Voorstraat 45,Utrecht,3512AC,NL,True,NL456789123B01,1,1
+Lisa van den Berg,lisa.vdberg@example.com,+31687654321,Kerkstraat 7,Rotterdam,3011AB,NL,False,,1,0
+Hoofddorp Office Supplies,sales@hoofddorpoffice.example,+31235551122,Kruisweg 100,Hoofddorp,2132CB,NL,True,NL234567891B01,0,1
+TechFlow GmbH,bestellung@techflow.example,+4930123456789,Friedrichstraße 100,Berlin,10117,DE,True,DE123456789,1,1
+Brussels Logistics SA,info@brusselslog.example,+3225551234,Avenue Louise 200,Brussels,1050,BE,True,BE0123456789,0,1
+Marie Dupont,marie.dupont@example.com,+33145678912,Rue de Rivoli 88,Paris,75001,FR,False,,1,0
+Studio Noord NV,studio@studionoord.example,+31501234567,Grote Markt 12,Groningen,9712HV,NL,True,NL345678912B01,1,0
+Eindhoven Innovations BV,hello@eindhoveninnov.example,+31402345678,Stratumseind 22,Eindhoven,5611EM,NL,True,NL567891234B01,1,0
+Pieter Bakker,pieter.bakker@example.com,+31624681357,Lange Voorhout 5,The Hague,2514EA,NL,False,,1,0
+Den Haag Consulting BV,office@denhaagcons.example,+31707654321,Plein 1813 nr 5,The Hague,2514JN,NL,True,NL678912345B01,1,1
+Sophie Hendriks,sophie.h@example.com,+31698765432,Damstraat 14,Haarlem,2011HA,NL,False,,1,0
+Antwerp Trading bvba,sales@antwerptrading.example,+3232224455,Meir 50,Antwerp,2000,BE,True,BE0987654321,0,1
+Rotterdam Retail BV,info@rotterdamretail.example,+31104567890,Coolsingel 75,Rotterdam,3012AD,NL,True,NL789123456B01,1,0
+Munich Tech AG,kontakt@munichtech.example,+498912345678,Marienplatz 1,Munich,80331,DE,True,DE987654321,1,1
+Tom van Dijk,tom.vandijk@example.com,+31655443322,Wilhelminastraat 9,Delft,2611NA,NL,False,,1,0
+Almere Business Park BV,admin@almerebp.example,+31365551144,Stationsplein 10,Almere,1315KV,NL,True,NL891234567B01,1,0
+Anna Smit,anna.smit@example.com,+31633221144,Singel 99,Leiden,2312JC,NL,False,,1,0

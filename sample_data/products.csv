@@ -1,0 +1,21 @@
+name,default_code,category,list_price,standard_price,sale_ok,purchase_ok,tax_name,type
+Ergonomic Office Chair,FURN-001,All / Furniture,289.00,145.00,True,True,21% ST,product
+Standing Desk - Electric,FURN-002,All / Furniture,649.00,380.00,True,True,21% ST,product
+Bookshelf 5-tier Oak,FURN-003,All / Furniture,219.00,110.00,True,True,21% ST,product
+Conference Table 8-seat,FURN-004,All / Furniture,899.00,520.00,True,True,21% ST,product
+Office Lamp LED,FURN-005,All / Furniture,79.00,38.00,True,True,21% ST,product
+Notebook A5 Hardcover,STAT-001,All / Stationery,8.50,3.20,True,True,21% ST,consu
+Notebook A4 Hardcover,STAT-002,All / Stationery,12.00,4.80,True,True,21% ST,consu
+Ballpoint Pen Pack of 10,STAT-003,All / Stationery,9.95,3.50,True,True,21% ST,consu
+Sticky Notes Multipack,STAT-004,All / Stationery,6.75,2.10,True,True,21% ST,consu
+Document Folder A4,STAT-005,All / Stationery,3.25,0.95,True,True,21% ST,consu
+Whiteboard 120x90cm,STAT-006,All / Stationery,89.00,42.00,True,True,21% ST,product
+Printer Paper A4 500 sheets,STAT-007,All / Stationery,7.50,3.20,True,True,21% ST,consu
+Wireless Mouse,TECH-001,All / Electronics,29.95,12.50,True,True,21% ST,product
+Mechanical Keyboard,TECH-002,All / Electronics,119.00,55.00,True,True,21% ST,product
+27 inch Monitor,TECH-003,All / Electronics,329.00,195.00,True,True,21% ST,product
+USB-C Hub 7-in-1,TECH-004,All / Electronics,49.95,22.00,True,True,21% ST,product
+Webcam HD 1080p,TECH-005,All / Electronics,59.00,28.00,True,True,21% ST,product
+Implementation Consulting Hour,SVC-001,All / Services,125.00,0.00,True,False,21% ST S,service
+Training Session Half-Day,SVC-002,All / Services,450.00,0.00,True,False,21% ST S,service
+Annual Support Contract,SVC-003,All / Services,1200.00,0.00,True,False,21% ST S,service

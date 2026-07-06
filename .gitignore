@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local config with secrets — DO NOT commit
+config/odoo.ini
+
+# Python virtual environment
+venv/
+.venv/
+
+# Migration error output
+errors_*.csv
