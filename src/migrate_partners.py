@@ -47,6 +47,7 @@ def build_partner_values(row, country_id):
         "vat": row["vat"].strip() or False,
         "customer_rank": int(row["customer_rank"] or 0),
         "supplier_rank": int(row["supplier_rank"] or 0),
+        "ref": "MIGRATION_DEMO",
     }
 
 
